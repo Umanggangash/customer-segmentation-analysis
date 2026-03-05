@@ -24,4 +24,4 @@ Umang Singh
 
 ## Project Visualization
 
-![Customer Segmentation](result.png)
+![Customer Segmentation](result.png.png)

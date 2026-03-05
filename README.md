@@ -1,18 +1,27 @@
 # customer-segmentation-analysis
-Customer segmentation using Python and clustering
-This project analyzes customer spending behavior using Python.
 
-Tools Used
-Python
-Pandas
-Matplotlib
-Scikit-learn
+This project analyzes customer spending behavior and groups customers into different segments using clustering techniques.
 
-Dataset
-Mall Customer Segmentation dataset
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
 
-Objective
-Segment customers into groups based on income and spending score.
+## Objective
+Identify different types of customers based on:
+- Age
+- Annual Income
+- Spending Score
 
-Author
+This helps businesses understand customer behavior and create better marketing strategies.
+
+## Dataset
+Mall Customer Segmentation Dataset
+
+## Author
 Umang Singh
+
+## Project Visualization
+
+![Customer Segmentation](result.png)
